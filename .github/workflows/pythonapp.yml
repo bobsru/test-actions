@@ -21,5 +21,4 @@ jobs:
       env:
         DISABLE_COLLECTSTATIC: 1
         TELEGRAM_TOKEN: token
-        DATABASE_URL: sqlite:///:memory:
 
